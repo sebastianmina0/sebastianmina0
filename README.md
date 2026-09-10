@@ -28,5 +28,5 @@ languages such as Python and Java, and knowledge in automation tools such as Sel
 
 ## 📬 Connect With Me
 
-* **LinkedIn:** (https://www.linkedin.com/in/juansebastianmina/)
+* **LinkedIn:** https://www.linkedin.com/in/juansebastianmina/
 * **Email:** sebastianmina654@hotmail.com
